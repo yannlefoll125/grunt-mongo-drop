@@ -1,15 +1,15 @@
 {
-  "name": "grunt-mongo-drop",
+  "name": "grunt-mongo-drop-yann",
   "description": "Drop a mongodb database (based on grunt-mongo-drop-task, adding db disconnect)",
   "version": "0.1.0",
-  "homepage": "https://github.com/Yann/grunt-mongo-drop",
+  "homepage": "https://yannlefoll125@github.com/yannlefoll125/grunt-mongo-drop",
   "author": {
     "name": "yannlefoll125",
     "email": "y_lefoll@orange.fr"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Yann/grunt-mongo-drop.git"
+    "url": "git://yannlefoll125@github.com/yannlefoll125/grunt-mongo-drop.git"
   },
   "bugs": {
     "url": "\"\""
